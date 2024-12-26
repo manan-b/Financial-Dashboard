@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Financial-Dashboard/static/css/main.23b3798b.css",
+    "main.js": "/Financial-Dashboard/static/js/main.f4562227.js",
+    "index.html": "/Financial-Dashboard/index.html",
+    "main.23b3798b.css.map": "/Financial-Dashboard/static/css/main.23b3798b.css.map",
+    "main.f4562227.js.map": "/Financial-Dashboard/static/js/main.f4562227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b3798b.css",
+    "static/js/main.f4562227.js"
+  ]
+}
